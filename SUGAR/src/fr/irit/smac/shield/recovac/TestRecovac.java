@@ -1,6 +1,6 @@
 package fr.irit.smac.shield.recovac;
 
-public class TestRecovac {
+public static class TestRecovac {
 	
 	public static void main(String[] args) {
 		int nbDrivingContext = 5;
